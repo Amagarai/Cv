@@ -1,0 +1,26 @@
+h1{
+	float: right;
+	margin-right: 70%;
+	margin-top: 5%;
+}
+ /*.flex{
+	flex-direction: row;
+}*/
+#p{
+	flex-direction: column;
+	margin-left: 20%;
+	margin-top: 0%;
+	background: #EDD8A2;
+}
+#contact{
+	display: flex;
+	flex-direction: column;
+	background: #EEE8D9;
+}
+#h2{
+	display: flex;
+	flex-direction: row;
+}
+.div1{
+	background: #DED10A;
+}
